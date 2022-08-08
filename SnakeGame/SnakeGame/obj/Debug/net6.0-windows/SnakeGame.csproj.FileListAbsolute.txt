@@ -1,0 +1,17 @@
+C:\Users\zeynep\source\repos\SnakeGame\SnakeGame\bin\Debug\net6.0-windows\SnakeGame.exe
+C:\Users\zeynep\source\repos\SnakeGame\SnakeGame\bin\Debug\net6.0-windows\SnakeGame.deps.json
+C:\Users\zeynep\source\repos\SnakeGame\SnakeGame\bin\Debug\net6.0-windows\SnakeGame.runtimeconfig.json
+C:\Users\zeynep\source\repos\SnakeGame\SnakeGame\bin\Debug\net6.0-windows\SnakeGame.dll
+C:\Users\zeynep\source\repos\SnakeGame\SnakeGame\bin\Debug\net6.0-windows\SnakeGame.pdb
+C:\Users\zeynep\source\repos\SnakeGame\SnakeGame\obj\Debug\net6.0-windows\SnakeGame.csproj.AssemblyReference.cache
+C:\Users\zeynep\source\repos\SnakeGame\SnakeGame\obj\Debug\net6.0-windows\SnakeGame.Form1.resources
+C:\Users\zeynep\source\repos\SnakeGame\SnakeGame\obj\Debug\net6.0-windows\SnakeGame.csproj.GenerateResource.cache
+C:\Users\zeynep\source\repos\SnakeGame\SnakeGame\obj\Debug\net6.0-windows\SnakeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeynep\source\repos\SnakeGame\SnakeGame\obj\Debug\net6.0-windows\SnakeGame.AssemblyInfoInputs.cache
+C:\Users\zeynep\source\repos\SnakeGame\SnakeGame\obj\Debug\net6.0-windows\SnakeGame.AssemblyInfo.cs
+C:\Users\zeynep\source\repos\SnakeGame\SnakeGame\obj\Debug\net6.0-windows\SnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\zeynep\source\repos\SnakeGame\SnakeGame\obj\Debug\net6.0-windows\SnakeGame.dll
+C:\Users\zeynep\source\repos\SnakeGame\SnakeGame\obj\Debug\net6.0-windows\refint\SnakeGame.dll
+C:\Users\zeynep\source\repos\SnakeGame\SnakeGame\obj\Debug\net6.0-windows\SnakeGame.pdb
+C:\Users\zeynep\source\repos\SnakeGame\SnakeGame\obj\Debug\net6.0-windows\SnakeGame.genruntimeconfig.cache
+C:\Users\zeynep\source\repos\SnakeGame\SnakeGame\obj\Debug\net6.0-windows\ref\SnakeGame.dll
